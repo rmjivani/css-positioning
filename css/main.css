@@ -100,12 +100,10 @@ footer {
      }
 }
 
-
 .text-align-center{
    text-align:center;
    background-color:aqua;
 }
-
 
 .margin-auto > div{
    margin:auto;
@@ -113,11 +111,6 @@ footer {
    background-color:beige;
    text-align:center;
 }
-
-
-
-
-
 
 
  .fa {
@@ -175,8 +168,6 @@ footer {
 
 
 /* flexible image rules end here */
-
-
 
 
 
